@@ -1,0 +1,1 @@
+This project is a temperature monitoring program for the MSP430FR4133 microcontroller. It not only measures and displays the current environmental temperature accurately, but also includes Checkpoint Mechanism for maintaining data integrity and consistency.
